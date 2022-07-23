@@ -1,0 +1,11 @@
+Model Information:
+* title:	SISU GTP 4x4 Armored Vehicle 10 Seater version
+* source:	https://sketchfab.com/3d-models/sisu-gtp-4x4-armored-vehicle-10-seater-version-7100033510ba4ccebfaac7877b63638e
+* author:	tamminen (https://sketchfab.com/tamminen)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SISU GTP 4x4 Armored Vehicle 10 Seater version" (https://sketchfab.com/3d-models/sisu-gtp-4x4-armored-vehicle-10-seater-version-7100033510ba4ccebfaac7877b63638e) by tamminen (https://sketchfab.com/tamminen) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
